@@ -18,7 +18,7 @@ You must implement the following builtins: cd, setenv, unsetenv, env, exit.
 
 See the subject for further details !
 
-## tests
+## Tests
 
 | Category                              | Percentage | Tests     | Crash ?     |
 |---------------------------------------|------------|-----------|-------------|
